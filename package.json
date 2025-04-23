@@ -40,7 +40,7 @@
     "@radix-ui/react-toggle-group": "^1.1.0",
     "@radix-ui/react-tooltip": "^1.1.4",
     "@tanstack/react-query": "^5.56.2",
-    "class-variance-authority": "^0.7.1",
+    "class-variance-authority": "file:0.7.0tailwindcss-animate@1.0.7@types/node@20.11.30@types/react@18.2.67@types/react-dom@18.2.22mongodb@6.5.0next@14.2.2next-auth@4.24.7csvtojson@2.0.10papaparse@5.4.1@types/papaparse@5.3.14",
     "clsx": "^2.1.1",
     "cmdk": "^1.0.0",
     "date-fns": "^3.6.0",
@@ -64,7 +64,7 @@
   "devDependencies": {
     "@eslint/js": "^9.9.0",
     "@tailwindcss/typography": "^0.5.15",
-    "@types/node": "^22.5.5",
+    "@types/node": "file:20.11.30@types/react@18.2.67@types/react-dom@18.2.22mongodb@6.5.0next@14.2.2next-auth@4.24.7csvtojson@2.0.10papaparse@5.4.1@types/papaparse@5.3.14",
     "@types/react": "^18.3.3",
     "@types/react-dom": "^18.3.0",
     "@vitejs/plugin-react-swc": "^3.5.0",
